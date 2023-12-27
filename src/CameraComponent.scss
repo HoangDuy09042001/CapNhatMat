@@ -1,0 +1,13 @@
+.main {
+    position: relative;
+    font-size: 30px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    .webcam-container {
+        display: flex;
+        justify-content: space-around;
+        align-items: center;
+    }
+}
